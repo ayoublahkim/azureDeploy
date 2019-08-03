@@ -15,9 +15,7 @@
       "type": "string",
       "allowedValues": [
         "Free",
-        "Shared",
-        "Basic",
-        "Standard"
+        "Shared"
       ],
       "defaultValue": "Free"
     },
