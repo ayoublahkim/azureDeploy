@@ -256,6 +256,7 @@ For more details please visit `overmind` homepage: https://github.com/DarthSim/o
 We strongly encourage you to use [https://classroom.github.com](https://classroom.github.com), but if you would like your own version GitHub Classroom can be easily deployed to Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 There are a few environment variables you will need to know in order to get Classroom working on production.
 
